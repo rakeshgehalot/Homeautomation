@@ -31,9 +31,9 @@ GSM phone number in another GSM network. A GSM digitizes and compresses data, th
 it down through a channel with two other streams of user data, each in its own time slot. It
 operates at either the 900 MHz or 1,800 MHz frequency band.
 The GSM study group aimed to provide the followings through the GSM:
- Improved spectrum efficiency.
- International roaming.
- Low-cost mobile sets and base stations (BSS).
- High-quality speech.
- Compatibility with Integrated Services Digital Network (ISDN) and other telephone company services.
- Support for new services.
+    Improved spectrum efficiency.
+    International roaming.
+    Low-cost mobile sets and base stations (BSS).
+    High-quality speech.
+    Compatibility with Integrated Services Digital Network (ISDN) and other telephone company services.
+    Support for new services.
